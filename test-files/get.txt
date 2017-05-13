@@ -1,0 +1,13 @@
+GET / HTTP/1.1	
+HTTP/1.0 200 OK
+Server: Tiny Web Server
+Content-length: 120
+Content-type: text/html
+
+<html>
+<head><title>test</title></head>
+<body> 
+<img align="middle" src="godzilla.gif">
+Dave O'Hallaron
+</body>
+</html>
